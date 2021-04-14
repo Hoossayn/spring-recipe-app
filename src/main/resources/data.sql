@@ -1,0 +1,9 @@
+INSERT INTO category (description) VALUES ('Sudanese');
+INSERT INTO category (description) VALUES ('Nigerian');
+INSERT INTO category (description) VALUES ('Spanish');
+INSERT INTO category (description) VALUES ('Mexican');
+INSERT INTO unit_of_measure (uon) VALUES ('Teaspoon');
+INSERT INTO unit_of_measure (uon) VALUES ('TableSpoon');
+INSERT INTO unit_of_measure (uon) VALUES ('Cup');
+INSERT INTO unit_of_measure (uon) VALUES ('Mudu');
+INSERT INTO unit_of_measure (uon) VALUES ('Pinch')
